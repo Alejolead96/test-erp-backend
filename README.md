@@ -30,7 +30,7 @@ Un sistema completo de gestión de documentos con validación por flujos de apro
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Alejolead96/test-erp-backend.git
 cd storage
 ```
 
